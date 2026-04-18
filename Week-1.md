@@ -14,7 +14,7 @@ Software Used
 
 Activities Completed
  1. Created a new project named GNS3-Intro-12310920.
-  ![GNS3 Screenshot](./Screenshots/Week1-Created-Project.png)
+  ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Created-Project.png)
  2. Added a new Linux host.
  3. Added text showing project title, name, studentID, and date.
  4. Selected IP address for host.
