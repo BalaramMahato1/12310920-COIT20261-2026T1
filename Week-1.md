@@ -17,7 +17,7 @@ Activities Completed
   ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Created-Project.png)
  2. Added a new Linux host.
   ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Insert-Device.png)
- 4. Added text showing project title, name, studentID, and date.
+ 4. Added text showing name and IP address.
   ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-GNS-Intro.png)
  6. Selected an IP address for the host and configured the node to use a static IP address.
   ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Network-Configure.png)
