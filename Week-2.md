@@ -40,10 +40,10 @@ Task 2: Testing Network Connectivity and Delay with Ping
 3. Ping from the host C to host B by changing the count.
    ![GNS3 Screenshot](./File/Week2/Screenshots/Week2-Ping-Basic-12310920-Count.png)
    
-4. Ping from the host C to host B by changing the Interval.
+4. Ping from the host C to host B by changing the interval.
    ![GNS3 Screenshot](./File/Week2/Screenshots/Week2-Ping-Basic-12310920-Interval.png)
 
-5. Ping from the host C to host B by changing the count.
+5. Ping from the host C to host B by changing the size.
    ![GNS3 Screenshot](./File/Week2/Screenshots/Week2-Ping-Basic-12310920-Size.png)
 
 6. Ping from the host C to host B by combined options.
