@@ -16,11 +16,15 @@ Activities Completed
  1. Created a new project named GNS3-Intro-12310920.
   ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Created-Project.png)
  2. Added a new Linux host.
- 3. Added text showing project title, name, studentID, and date.
- 4. Selected IP address for host.
- 5. Added tex near the node showing IP address.
- 6. Successfully configured the node to use a static IP address.
- 7. Started the node.
- 8. Opened a web console.
+  ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Insert-Device.png)
+ 4. Added text showing project title, name, studentID, and date.
+  ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-GNS-Intro.png)
+ 6. Selected an IP address for the host and configured the node to use a static IP address.
+  ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-Network-Configure.png)
+ 9. Started the node.
+  ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-ifconfig.png)
+ 11. Opened a web console.
+  ![GNS3 Screenshot](./File/Week1/Screenshots/Week1-ifconfig-ip.png)
+     
 
 
